@@ -1,0 +1,15 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/adambair/wiki
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/adambair/dotfiles
+[submodule "envfiles"]
+	path = envfiles
+	url = https://github.com/adambair/envfiles
+[submodule "binfiles"]
+	path = binfiles
+	url = https://github.com/adambair/binfiles
+[submodule "lokap"]
+	path = lokap
+	url = https://github.com/adambair/lokap
