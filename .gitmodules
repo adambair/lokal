@@ -13,3 +13,6 @@
 [submodule "lokap"]
 	path = lokap
 	url = https://github.com/adambair/lokap
+[submodule "dotfiles-private"]
+	path = dotfiles-private
+	url = https://github.com/adambair/dotfiles-private
